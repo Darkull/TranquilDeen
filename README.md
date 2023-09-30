@@ -9,8 +9,6 @@ In a fast-paced world, TranquilDeen aims to provide moments of peace and reflect
 ## Image
 
 - ![Screenshot 1](https://github.com/Darkull/TranquilDeen/blob/main/assets/preview.gif?raw=true)
-- ![Screenshot 2](https://github.com/Darkull/TranquilDeen/blob/main/assets/preview.gif?raw=true)
-- ![Screenshot 3](https://github.com/Darkull/TranquilDeen/blob/main/assets/preview.gif?raw=true)
 
 ## How to Use
 
