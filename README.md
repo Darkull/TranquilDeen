@@ -6,6 +6,10 @@ TranquilDeen is a peaceful space designed to serve as a gentle reminder of Islam
 
 In a fast-paced world, TranquilDeen aims to provide moments of peace and reflection. Immerse yourself in serene reminders inspired by Islamic principles, fostering a tranquil mindset.
 
+## Image
+
+https://github.com/Darkull/TranquilDeen/blob/main/assets/preview.gif?raw=true
+
 ## How to Use
 
 1. **Explore Reminders:** Visit our [website](https://tranquildeen.netlify.app/) for daily reminders and insights.
@@ -26,4 +30,4 @@ We welcome your feedback and contributions. If you have suggestions or want to c
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Darkull/TranquilDeen/main/License.md).
