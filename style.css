@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: BanglaFont;
+  src: url(./assets/font/bangla.ttf);
+}
+
+@font-face {
+  font-family: BanglaFont2;
+  src: url(./assets/font/banglaFont-2.ttf);
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html,
+body {
+  height: 100vh;
+  width: 100%;
+}
+
+body {
+  font-family: "BanglaFont2", sans-serif;
+  background-image: url(./assets/dawahbg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  max-width: 120rem;
+  margin: 30rem auto;
+  padding: 0 5rem;
+  /* background-color: #333; */
+}
+
+.text-container {
+  transition: opacity 0.5s ease-in-out;
+}
+
+.text-container p {
+  font-size: 5rem;
+  text-align: center;
+  color: #333;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 2rem;
+}
+
+.btn:link,
+.btn:visited {
+  border: none;
+  outline: none;
+  font-size: 2rem;
+  background-color: #333;
+  display: inline-block;
+  padding: 3px 20px 6px 20px;
+  cursor: pointer;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #474747;
+}
+
+.btn:active {
+  background-color: #333333;
+}
